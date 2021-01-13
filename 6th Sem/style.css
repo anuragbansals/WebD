@@ -1,0 +1,28 @@
+.academic, .field{
+    background-color: rgb(156, 172, 187);
+    padding: 5px;
+}
+.table{
+    width: 60%;
+}
+/* .field{
+    back
+} */
+
+body{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+td{
+    text-align: center;
+}
+/* line{
+    color: black;
+
+} */
+ .row1{
+     border-collapse: collapse;
+     
+    border-top: 2px solid black; 
+     border-bottom: 2px solid black; 
+} 
